@@ -186,4 +186,10 @@ Evaluation metrics used:
 - 🔎 Use the model as a **pricing audit tool** to detect outliers or mispriced products.
 - 📊 Consider using this regression pipeline in **real-time dashboards** for internal decision support.
 
+## 📬 Contact
 
+If you'd like to connect or discuss this project:
+
+- 📧 Email: [abdouhall58@gmail.com](mailto:abdouhall58@gmail.com)
+   
+- 💼 LinkedIn:  [![LinkedIn](icons/linkedin_icon_tiny.png)](https://www.linkedin.com/in/abdelali-hallal/)
