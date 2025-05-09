@@ -115,7 +115,7 @@ All transformations were encapsulated in **Scikit-learn Pipelines**.
 
 📉 _Limitation_: Struggles when the relationship between features and price is non-linear.
 
-![LR](price_vs_top1.png)
+![LR](visuals/Linear_Regression.png)
 
 ---
 
@@ -129,7 +129,7 @@ All transformations were encapsulated in **Scikit-learn Pipelines**.
 
 📈 _Benefit_: Significantly improved model performance by capturing non-linearity.
 
-![PR](price_vs_top1.png)
+![PR](visuals/P5.png)
 
 ---
 
