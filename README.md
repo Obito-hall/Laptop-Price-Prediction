@@ -36,7 +36,7 @@ The project follows a **structured machine learning pipeline**:
 
 ## 📂 Dataset Overview
 
-🔗 [Laptop pricind dataset](https://stackoverflow.blog/2024/08/06/2024-developer-survey/)
+🔗 [Laptop pricind dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-Coursera/laptop_pricing_dataset_mod2.csv)
 - 📦 **Rows**: 238 laptops
 - 🧩 **Target**: `Price` (in USD)
 - 🎯 **Features**: Laptop brand, hardware specifications, screen characteristics, and OS.
